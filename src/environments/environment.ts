@@ -17,7 +17,7 @@ export const environment: Config = {
     product: false,
     order: false,
     import: true,
-    bff: false,
+    bff: true,
     cart: false,
   },
 };
